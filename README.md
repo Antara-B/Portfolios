@@ -32,7 +32,7 @@ Description: This exploratory data analysis (EDA) project examines hotel booking
 
 ## Sales Domain
 **Project: Sales Data Analysis**  
-Tools: Python, Power BI  
+Tools: Excel, SQL, Power BI  
 Description: This project analyzes sales data to uncover insights in the following areas:
 
 1. **Return Policy Impact**: Refining return policies to balance customer convenience with business interests.
@@ -44,7 +44,6 @@ Description: This project analyzes sales data to uncover insights in the followi
 
 Each project folder contains:
 - Detailed documentation of the analysis.
-- Datasets used (if publicly shareable).
 - Code files or Power BI reports.
 
 Feel free to explore the projects and gain insights into data analysis methodologies for different domains.
