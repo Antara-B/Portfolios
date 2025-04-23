@@ -1,4 +1,4 @@
-# EDA-Hotel-Booking-Analsyis-PANDAS
+# EDA-Hotel-Booking-Analysis-PANDAS
 
 
 ## Objective
